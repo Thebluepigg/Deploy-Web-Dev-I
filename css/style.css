@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: wheat;
+    font-size: 2em;
+    text-align: center;
+}
+h1{
+    color: red;
+}
+
+p{
+    margin-top: 5%;
+}
